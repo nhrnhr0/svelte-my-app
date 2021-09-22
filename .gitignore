@@ -1,5 +1,11 @@
+# client
 .DS_Store
 node_modules
-/build
+/build*
 /.svelte-kit
 /package
+
+
+#server
+env
+*.pyc
